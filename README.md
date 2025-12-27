@@ -1,3 +1,5 @@
+## 👋 Hi, I'm Apurv Kumar
+
 <img width="1536" height="1024" alt="ChatGPT Image Dec 27, 2025, 12_08_29 PM" src="https://github.com/user-attachments/assets/16b17f91-ab14-4df6-bf22-7a9616857fbf" />
 
 <p align="center">
@@ -29,3 +31,12 @@
 ![AI](https://img.shields.io/badge/AI_Apps-Gemini-4285F4?style=for-the-badge&logo=google)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+## 🏅 LeetCode Achievements & Badges
+
+<p align="center">
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="120" />
+  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="120"/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/202511.gif" width="120"/>
+</p>
+
