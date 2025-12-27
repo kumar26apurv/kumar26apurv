@@ -1,6 +1,5 @@
 # Apurv
 ## 🚀 Tech Stack
-![Skill](https://img.shields.io/badge/Name-Color?style=for-the-badge&logo=LogoName&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
