@@ -1,4 +1,10 @@
 <img width="989" height="471" alt="Screenshot 2025-12-27 115927" src="https://github.com/user-attachments/assets/892a1d66-f3c6-4cd9-9638-6c4cf5992872" />
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=DSA+Enthusiast+%7C+Problem+Solver;Backend+%26+Full+Stack+Developer;Building+Scalable+Web+%26+AI+Applications" 
+    alt="Typing SVG" 
+  />
+</p>
 
 ## 🚀 Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
