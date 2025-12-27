@@ -1,4 +1,6 @@
-# Apurv
+## 👋 Hi, I'm Apurv Kumar
+<img width="989" height="471" alt="Screenshot 2025-12-27 115927" src="https://github.com/user-attachments/assets/892a1d66-f3c6-4cd9-9638-6c4cf5992872" />
+
 ## 🚀 Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
