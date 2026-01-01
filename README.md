@@ -35,9 +35,10 @@
 ## 🏅 LeetCode Achievements & Badges
 
 <p align="center">
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="120" />
-  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="120"/>
-  <img src="https://assets.leetcode.com/static_assets/marketing/202511.gif" width="120"/>
   <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" width="120"/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/202512.gif" width="120"/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/202511.gif" width="120"/>
+  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="120"/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="120" />
 </p>
 
