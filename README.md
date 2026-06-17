@@ -1,6 +1,31 @@
-# 👋 Hi, I'm Apurv Kumar
+### Hi, I'm Apurv Kumar 👋
 
-<img width="1536" height="1024" alt="ChatGPT Image Dec 27, 2025, 12_08_29 PM" src="https://github.com/user-attachments/assets/16b17f91-ab14-4df6-bf22-7a9616857fbf" />
+Software Developer focused on full-stack web applications. I build production systems end-to-end — from database schema to deployment — using React, Node.js, ASP.NET Core, and Azure.
+
+Currently looking for full-time Software Developer roles. May 2026 graduate.
+
+**What I'm working with right now:** React · Node.js · ASP.NET Core · PostgreSQL · MongoDB · Azure · Docker
+
+📫 Reach me: kumar26apurv@gmail.com · [LinkedIn](https://www.linkedin.com/in/apurvkumar26/)
+
+---
+
+### Featured projects
+
+**[SmartCertify](https://smartcertify-web.azurewebsites.net/home)** — Multi-role certification platform built with Angular 19 and ASP.NET Core MVC. Handles concurrent exam sessions, JWT auth via Azure AD B2C, and deploys through Docker + Azure DevOps CI/CD.
+
+**[QuickAI](https://quick-ai-liart-two.vercel.app/)** — Full-stack AI SaaS platform on the PERN stack serving 300+ users. Fixed an N+1 query bottleneck that cut API response time from ~800ms to under 100ms.
+
+**[Nestorria](https://nestorria.vercel.app/)** — MERN real estate platform managing 150+ listings with Stripe payment integration and JWT authentication.
+
+---
+
+### LeetCode
+
+300+ DSA problems solved · 75+ SQL problems solved · [Profile](https://leetcode.com/u/Apurvkumar26/)
+
+<img width="1440" height="346" alt="image" src="https://github.com/user-attachments/assets/83b64c64-4530-4aef-a226-eea04af8399a" />
+
 
 <p align="center">
   <img 
